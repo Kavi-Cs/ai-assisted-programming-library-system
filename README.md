@@ -33,4 +33,4 @@ Version B creates `library_data.json` automatically in its own folder to persist
 
 Replace this placeholder after uploading the project:
 
-`https://github.com/YOUR_USERNAME/ai-assisted-programming-library-system`
+`https://github.com/Kavi-Cs/ai-assisted-programming-library-system`
