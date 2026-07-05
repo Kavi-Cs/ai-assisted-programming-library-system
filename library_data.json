@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "book_id": "B001",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "is_available": false
+    },
+    {
+      "book_id": "B002",
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "is_available": true
+    },
+    {
+      "book_id": "B003",
+      "title": "Design Patterns",
+      "author": "Gamma et al.",
+      "is_available": true
+    }
+  ],
+  "members": [
+    {
+      "member_id": "M001",
+      "name": "Nimal Perera",
+      "borrowed_books": [
+        "B001"
+      ]
+    },
+    {
+      "member_id": "M002",
+      "name": "Asha Silva",
+      "borrowed_books": []
+    }
+  ]
+}
